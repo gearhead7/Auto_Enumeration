@@ -6,7 +6,7 @@ This Project will help you to Automate the Enumeration Process.
 `Amasss`</br>
 `Sublist3r`</br>
 `EyeWitness`</br>
-`httpprobe`</br>
+`httprobe`</br>
 `waybackurls`</br>
 `whatweb`</br>
 
